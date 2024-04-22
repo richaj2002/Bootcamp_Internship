@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Jersey 20 Charted';
+    src: url('Fonts/Jersey20Charted-Regular.ttf') format('woff2');
+  }
+  
+p {
+    font-family: "Jersey 20 Charted", sans-serif;
+    font-size:1rem;
+
+  }
+ 
