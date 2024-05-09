@@ -1,0 +1,23 @@
+.day-edit{
+    color: rgba(0,0,0,0.9) !important;
+}
+
+.day-edit :hover{
+    color: rgba(167, 47, 47, 0.5)  !important;
+}
+
+.card-container
+{
+    display: inline-flex;
+}
+
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 60px; /* Set the fixed height of the footer here */
+    line-height: 60px; /* Vertically center the text */
+    background-color: #f5f5f5;
+  }
+
